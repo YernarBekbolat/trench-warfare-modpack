@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "channel": "shotal-city",
+  "version": "shotal-city-20261104T051449Z-9008b205",
+  "updatedAt": "2026-11-04T05:15:05.361742+00:00",
+  "files": [
+    {
+      "path": "mods/trenchwarfare-0.2.0.jar",
+      "sha256": "9008b2058cf585b27d62b5debae1c2ff0ce73a6d2e8c15cee3df3e021d5f5652",
+      "size": 8611376,
+      "url": "https://github.com/YernarBekbolat/trench-warfare-modpack/releases/download/shotal-city-20261104T051449Z-9008b205/patch.zip",
+      "patchSha256": "debe4e4412aec6128140088e9dbfe89757eedc16497b27133dfa9b07661e2f52"
+    }
+  ],
+  "remove": []
+}
